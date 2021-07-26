@@ -4,7 +4,7 @@ Hi, this is Ernie. I'm currently persuing my CS bachelor's degree from National 
 
 Besides my school works, I'm also working part-time in the office of international affairs, NSYSU as a full stack Web developer. I develop Web applications for exchange programs mostly using PHP, Express, and Vue. I also maintain the OIA official website incorporating with Rpage, HeimaVista, Inc.
 
-I've also developed in subjects including but not limited to, socket programming, attribute-based encyption, image processing, computer networking, compiler design, metaheuristic algorithm reasoning, real-time clustering algorithm visualization, real-time license-plate verification system, chrome extension development and signal processing.
+I've also developed in subjects including but not limited to, socket programming, attribute-based encyption, image processing, compiler design, metaheuristic algorithm reasoning, real-time clustering algorithm visualization, real-time license-plate verification system, chrome extension development and signal processing.
   
 <!--
 https://github.com/anuraghazra/github-readme-stats
