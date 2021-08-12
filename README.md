@@ -1,5 +1,7 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestchu&hide=jupyter%20notebook">
-
+<div float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestchu&hide=jupyter%20notebook">
+  <img src="https://i.imgur.com/c4jt321.png">
+</div>
 Hi, this is Ernie. I'm currently persuing my CS bachelor's degree from National Sun Yat-sen University. My primary interest lies in machine learning and generative models. I'm currently working on an ML approach to time-scale modification on audio signals.
 
 Besides my school works, I'm also working part-time in the office of international affairs, NSYSU as a full stack Web developer. I develop Web applications for exchange programs mostly using PHP, Express, and Vue. I also maintain the OIA official website incorporating with Rpage, HeimaVista, Inc.
