@@ -1,6 +1,6 @@
 <div float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestchu&hide=jupyter%20notebook">
-  <img src="https://i.imgur.com/c4jt321.png">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestchu&hide=jupyter%20notebook" width="24%">
+  <img src="https://i.imgur.com/c4jt321.png" width="74%">
 </div>
 Hi, this is Ernie. I'm currently persuing my CS bachelor's degree from National Sun Yat-sen University. My primary interest lies in machine learning and generative models. I'm currently working on an ML approach to time-scale modification on audio signals.
 
