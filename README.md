@@ -9,7 +9,7 @@
   Besides my school works, I'm also working part-time at the Fffice of International Affairs, NSYSU as a full stack Web developer. I develop Web applications for exchange programs mostly using PHP, Express, Vue, and maintaining the OIA official website incorporating with Rpage, HeimaVista, Inc.
 </p>
 <p>
-  I've also developed in subjects including but not limited to, socket programming, attribute-based encyption, image processing, compiler design, metaheuristic algorithm reasoning, real-time clustering algorithm visualization, real-time license-plate verification system, chrome extension development and signal processing.
+  I've also developed in subjects including but not limited to, socket programming, attribute-based encryption, image processing, compiler design, metaheuristic algorithm reasoning, real-time clustering algorithm visualization, real-time license-plate verification system, chrome extension development and signal processing.
 </p>
 <!--
 https://github.com/anuraghazra/github-readme-stats
